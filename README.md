@@ -10,5 +10,4 @@ Hi, I'm Sahidul, a passionate self-taught frontEnd web developer from Bangladesh
 
 
 
-Connect with me:
-https://www.linkedin.com/in/md-sahidul-islam-739701203/
+
