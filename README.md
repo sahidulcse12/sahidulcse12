@@ -7,18 +7,17 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👯 I’m looking to collaborate on **others mern-stack developer**
+- 👯 I’m looking to collaborate on **others .net, react and next.js developer**
 
 - ⚡ Fun fact **I think I am so funny and love to travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://leetcode.com/iamsahid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="muhit" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/muhit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="muhit" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/iamsahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="iamsahid" height="30" width="40" color="blue"/></a>
 <a href="https://www.hackerrank.com/sahid_299350" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sahid_299350" height="30" width="40" color="blue"/></a>
-<a href="https://www.facebook.com/sahidul.muhit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muhit" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-sahidul-islam-739701203/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahidul" height="30" width="40" /></a>
- <a href="https://www.instagram.com/sahid.muhit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sahid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
